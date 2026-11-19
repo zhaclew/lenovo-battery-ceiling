@@ -1,0 +1,19 @@
+# 编译产物（dist 里的 exe 是特意提交给小白直接下载的，不忽略）
+*.pdb
+*.obj
+*.ilk
+*.lib
+*.exp
+
+# 编辑器 / 临时文件
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
+*.log
+
+# 本地打包
+*.zip
