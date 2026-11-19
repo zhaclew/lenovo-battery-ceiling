@@ -19,7 +19,7 @@
 
 ## 三步上手
 
-1. 下载 `BatteryCeiling.exe`（仓库里的 `dist/` 目录，或 Releases 页面）
+1. 下载 [`BatteryCeiling.exe`](dist/BatteryCeiling.exe)（打开后点右上角 Download；也可以在 Releases 页下载）
 2. 双击运行（不用装、不用管理员权限）
 3. 选 **硬件养护（固定约60% - 长久生效）**，点 **应用**，再点右上角 ✕（窗口缩到托盘，限制在后台继续生效）
 
